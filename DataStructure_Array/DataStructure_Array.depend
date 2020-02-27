@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582804819 source:d:\git\c_datastructure\datastructure_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582804819 source:d:\git\datastructurepractice\datastructure_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
