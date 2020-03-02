@@ -1,9 +1,1 @@
 # depslib dependency file v1.0
-1582801100 source:d:\git\c_datastructure\datastructure_queue\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1582815276 source:d:\git\datastructurepractice\datastructure_queue\main.c
-	<stdio.h>
-	<stdlib.h>
-

@@ -3,5 +3,8 @@
 	<Workspace title="Workspace">
 		<Project filename="DataStructure_Array/DataStructure_Array.cbp" />
 		<Project filename="DataStructure_Queue/DataStructure_Queue.cbp" />
+		<Project filename="LinkedList/LinkedList.cbp" />
+		<Project filename="Test_LinkedList/Test_LinkedList.cbp" />
+		<Project filename="LinkedList_EX/LinkedList_EX.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

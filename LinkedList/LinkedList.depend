@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1583143798 source:d:\git\datastructurepractice\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"linkedlist.h"
+
+1583143659 source:d:\git\datastructurepractice\linkedlist\insert.c
+	"insert.h"
+
+1583143628 d:\git\datastructurepractice\linkedlist\insert.h
+	<stdio.h>
+	<stdlib.h>
+	"dataStruct.h"
+
+1583140934 d:\git\datastructurepractice\linkedlist\datastruct.h
+
+1583143830 d:\git\datastructurepractice\linkedlist\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	"dataStruct.h"
+	"insert.h"
+	"delete.h"
+
+1583142025 source:d:\git\datastructurepractice\linkedlist\linkedlist.c
+	"linkedlist.h"
+
+1583143567 d:\git\datastructurepractice\linkedlist\delete.h
+	<stdio.h>
+	<stdlib.h>
+	"dataStruct.h"
+
