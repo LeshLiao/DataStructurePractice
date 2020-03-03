@@ -4,7 +4,7 @@
 		<Project filename="DataStructure_Array/DataStructure_Array.cbp" />
 		<Project filename="DataStructure_Queue/DataStructure_Queue.cbp" />
 		<Project filename="LinkedList/LinkedList.cbp" />
-		<Project filename="Test_LinkedList/Test_LinkedList.cbp" />
-		<Project filename="LinkedList_EX/LinkedList_EX.cbp" />
+		<Project filename="BasicInC/BasicInC.cbp" />
+		<Project filename="BasicInC_section2/BasicInC_section2.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

@@ -14,6 +14,8 @@ int main()
         printf("1. show data \n");
         printf("2. insert begin \n");
         printf("3. insert end \n");
+        printf("5. delete begin \n");
+        printf("6. delete end \n");
         printf("0. exit \n");
         printf("Enter your choice: ");
         int option,pos;

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1583143798 source:d:\git\datastructurepractice\linkedlist\main.c
+1583229416 source:d:\git\datastructurepractice\linkedlist\main.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -29,4 +29,7 @@
 	<stdio.h>
 	<stdlib.h>
 	"dataStruct.h"
+
+1583143899 source:d:\git\datastructurepractice\linkedlist\delete.c
+	"delete.h"
 
